@@ -4,6 +4,11 @@ h1 {
 
 color: #A3B8AE;
 font-family: 'Lobster', cursive;
+background: red;
+width: 300px;
+padding: 10px;
+border: 10px solid black;
+margin: 0px;
 }
 
 body {
