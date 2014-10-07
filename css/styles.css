@@ -1,7 +1,21 @@
 /* Your Website Styles */
 
+h1 {
+
+color: #A3B8AE;
+font-family: 'Lobster', cursive;
+}
+
+body {
+
+	background: url("../img/bg.png") ;
+
+}
 
 /* Show Grid */
+
 .showgrid {
+
 	background: url("../img/grid-bg.png") repeat-y;
+
 }
