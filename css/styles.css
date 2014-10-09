@@ -9,6 +9,7 @@ width: 300px;
 padding: 10px;
 border: 10px solid black;
 margin: 0px;
+
 }
 
 body {
@@ -22,5 +23,11 @@ body {
 .showgrid {
 
 	background: url("../img/grid-bg.png") repeat-y;
+
+}
+
+#map {
+
+	margin-top: 60px;
 
 }
