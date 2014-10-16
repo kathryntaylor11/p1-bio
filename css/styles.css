@@ -1,3 +1,11 @@
+/*  Body  */
+
+body {
+	font-family: 'Poiret One', cursive;
+	}
+
+
+
 /*  Image Editing  */
 
 .me {
@@ -26,3 +34,43 @@ h2 {
 	padding: 10px 0;
 	margin: 15px 0;
 }
+
+/*  Nav  */
+
+
+ul.nav {
+	font-size: 1.50em;
+	margin: -144px auto;
+	padding: 120px 250px;
+	list-style: none;
+	float: left;
+	display: block;
+	text-align: center;
+}
+
+ul.nav li{
+	display: inline-block;
+	margin: 0 10px;
+	padding: 20px;
+}
+
+ul.nav li a {
+	color: #000;
+	display: block;
+	text-decoration: none;
+}
+
+
+
+
+
+
+/*  Footer  */
+
+#copyright {
+	text-align: center;
+	margin: 0;
+	padding: 100px;
+}
+
+
