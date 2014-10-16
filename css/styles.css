@@ -5,6 +5,14 @@ body {
 	}
 
 
+/*  Selected Element  */
+
+#selected {
+	color: #3388dd;
+	text-decoration: none;
+}
+
+
 
 /*  Image Editing  */
 
