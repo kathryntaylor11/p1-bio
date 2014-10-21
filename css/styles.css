@@ -62,6 +62,10 @@ h2 {
 	float: left;
 }
 
+.about h2 {
+	font-family: 'Megrim', cursive;
+}
+
 .major {
 	background: none repeat scroll 0% 0% #000;
 	width: 405px;
@@ -71,6 +75,10 @@ h2 {
 	margin: 20px 20px 0px;
 	color: #3388dd;
 	float: right;
+}
+
+.major h2 {
+	font-family: 'Megrim', cursive;
 }
 
 /*  Nav  */
