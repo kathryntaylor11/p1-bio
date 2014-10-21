@@ -49,6 +49,28 @@ h2 {
 	margin: 13px 0px 12px;
 }
 
+/*About*/
+
+.about {
+	background: none repeat scroll 0% 0% #000;
+	width: 405px;
+	padding: 10px 10px;
+	border-radius: 0px 20px;
+	text-align: center;
+	margin: 20px 20px 0px;
+	color: #3388dd;
+}
+
+.major {
+	background: none repeat scroll 0% 0% #000;
+	width: 405px;
+	padding: 10px 0px;
+	border-radius: 20px 0px;
+	text-align: center;
+	margin: 20px 20px 0px;
+	color: #3388dd;
+}
+
 /*  Nav  */
 
 
@@ -57,7 +79,6 @@ ul.nav {
 	margin: -144px auto;
 	padding: 120px 250px;
 	list-style: none;
-	float: left;
 	display: block;
 	text-align: center;
 }
@@ -97,6 +118,58 @@ a:hover {
 a:active {
 	color: #3388dd;
 }
+
+
+/* Art ( http://www.dreamweaverclub.com/dreamweaver-show-larger-image.php ) */
+
+#picture {
+	width:100px; 
+	height: 250px; 
+	background-color:#ffffff;
+}
+
+#picture a.small, #picture a.small:visited { 
+	display:block; 
+	width:100px; 
+	height:100px; 
+	text-decoration:none; 
+	background:#ffffff; 
+	top:0; 
+	left:0; 
+	border:0;
+}
+
+#picture a img {
+	border:0;
+}
+
+#picture a.small:hover {
+	text-decoration:none; 
+	background-color:#000000; 
+	color:#000000;
+}
+
+#picture a .large {
+	display:block; 
+	position:absolute; 
+	width:0; 
+	height:0; 
+	border:0; 
+	top:0; 
+	left:0;
+}
+
+#picture a.small:hover .large {
+	display:block; 
+	position:absolute; 
+	top: 90px; 
+	left:150px; 
+	width:200px; 
+	height:200px; 
+} 
+
+
+
 
 
 
